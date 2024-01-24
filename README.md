@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev-Café 😁
+## Bem-vindo(a) ao perfil do Dev-Café ☕
 
  <div>
    <a href="https://github.com/DEV-Cafe096
