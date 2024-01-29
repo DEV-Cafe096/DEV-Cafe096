@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev-Café ☕
 
+Estudante de tecnologia, DEV Front-End Junior
+
  <div>
    <a href="https://github.com/DEV-Cafe096
 ">
