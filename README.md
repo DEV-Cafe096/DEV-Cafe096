@@ -26,6 +26,6 @@
 
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/2/?pli=1#inbox"><img 
-       align="center" alt="GM" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+       align="center" alt="GM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
           
   <a href="https://www.linkedin.com/in/michel-correa-484a0511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
