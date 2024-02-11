@@ -9,6 +9,7 @@ Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Cafe096
 &layout=compact&langs_count=6&theme=tokyonight"/>
+    <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 </div>
     
 <div style="display: inline_block"><br>
