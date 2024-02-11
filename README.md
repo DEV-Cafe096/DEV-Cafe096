@@ -20,7 +20,7 @@ Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+   <img align="right" alt="GIF" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>"/>
   
   
 </div>
