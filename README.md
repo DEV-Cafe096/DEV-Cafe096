@@ -4,6 +4,7 @@ Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
 
 
 
+
  <div>
    <a href="https://github.com/DEV-Cafe096
 ">
@@ -20,7 +21,8 @@ Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="right" alt="GIF" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed">
+
+   <img align="center" alt="React" height="30" width="40" src="   https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N2Y3Fucnpid2FjaXhvMTFkZDc4bW02d2Rzeml1bjUxeDB3eTgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
   
   
 </div>
