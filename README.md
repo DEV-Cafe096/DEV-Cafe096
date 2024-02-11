@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Dev-Café ☕
 
-Estudante de tecnologia, DEV Front-End Junior
+Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
 
  <div>
    <a href="https://github.com/DEV-Cafe096
