@@ -1,6 +1,10 @@
 ## Bem-vindo(a) ao perfil do Dev-Café ☕
 
-Estudante de tecnologia, desenvolvedor Front-End-Junior em constante evolução.
+Estudante de tecnologia, apaixonado por programação. 
+Desenvolvedor Front-End-Junior em constante evolução.
+Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso.
+<br>
+<img align="right" alt="GIF" src="https://www.canva.com/design/DAF9EUFMcIs/fPGHRkuQiyRD09hM6l5F0Q/edit?utm_content=DAF9EUFMcIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton-dark-mode-only" width="360px"/>
 
 
 
