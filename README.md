@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel%20Correa%20(1).png)
+![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel%20Correa%20(1).png-100px)
 
 ## Bem-vindo(a) ao perfil do Dev-Café ☕ 
 
