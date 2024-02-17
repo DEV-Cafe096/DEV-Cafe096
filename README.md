@@ -1,4 +1,4 @@
-![Capa Github](https://www.canva.com/design/DAF9EUFMcIs/vi2sON4ZU2rggBWHapw3QQ/watch)
+![Capa Github](https://www.canva.com/design/DAF9EUFMcIs/vi2sON4ZU2rggBWHapw3QQ/watch100px)
 
 ## Bem-vindo(a) ao perfil do Dev-Café ☕ 
 
