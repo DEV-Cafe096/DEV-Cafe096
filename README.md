@@ -1,4 +1,4 @@
-![Capa Github](https://www.canva.com/design/DAF9EUFMcIs/fPGHRkuQiyRD09hM6l5F0Q/edit?utm_content=DAF9EUFMcIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Capa Github](https://www.canva.com/design/DAF9EUFMcIs/fPGHRkuQiyRD09hM6l5F0Q)
 
 ## Bem-vindo(a) ao perfil do Dev-Café ☕ 
 
