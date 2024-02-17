@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/bush1D3v/my_portfolio/assets/133554156/7a9f09c5-446e-4a45-b153-5b41fb5acf16)
+![Capa Github](https://www.canva.com/design/DAF9EUFMcIs/fPGHRkuQiyRD09hM6l5F0Q/edit?utm_content=DAF9EUFMcIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Bem-vindo(a) ao perfil do Dev-Café ☕ 
 
