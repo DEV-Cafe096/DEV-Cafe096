@@ -1,6 +1,6 @@
 
 ## Bem-vindo(a) ao meu perfil ☕ 
-<div img align="center" width="200px"
+<div img align="center" width="700px"
 
  ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png) >
  </div>
