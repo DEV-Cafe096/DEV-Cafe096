@@ -26,6 +26,8 @@
 </div>
     
 <div style="display: inline_block"><br>
+
+<br>
  
  <strong>Tecnologias em Aprendizado:</strong>
 
