@@ -1,8 +1,6 @@
-![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png)
-
-
 
 ## Bem-vindo(a) ao perfil do Dev-Café ☕ 
+![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png)
 
 Me chamo Michel estudante de tecnologia, apaixonado por programação. 
 Desenvolvedor Front-End-Junior em constante evolução.
