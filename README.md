@@ -26,7 +26,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-##<strong>Tecnologias em aprendizado</strong>
+## Tecnologias em aprendizado:
 
            
           
