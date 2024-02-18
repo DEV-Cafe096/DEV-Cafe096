@@ -43,7 +43,7 @@ Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves pa
 <div> 
  <p width = 35px ><strong>Conecte-se comigo</strong></p>
 
-
+<a href="https://api.whatsapp.com/send/?phone=5551995351233" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:devcafe096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/michel-correa-484a0511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
