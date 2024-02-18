@@ -28,7 +28,9 @@
 <div style="display: inline_block"><br>
 <p><strong>Tecnologias em aprendizado</strong></p>
 
-   <img align="center" alt="Node" height="40" width="50" src="https://www.iconarchive.com/download/i111471/fa-team/fontawesome-brands/FontAwesome-Brands-Node.svg">
+           
+          
+   <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />                    
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
