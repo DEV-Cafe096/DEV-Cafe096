@@ -5,9 +5,9 @@
  ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png) 
  </div>
 
-Me chamo Michel estudante de tecnologia, apaixonado por programação. 
+##Me chamo Michel estudante de tecnologia, apaixonado por programação. 
 Desenvolvedor Front-End-Junior em constante evolução.
-Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso.
+Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso.##
 
 
 
