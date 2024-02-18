@@ -2,7 +2,7 @@
 ## Bem-vindo(a) ao meu perfil ☕ 
 <div img align="center" width="600"
 
- ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png) >
+ ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png) 
  </div>
 
 Me chamo Michel estudante de tecnologia, apaixonado por programação. 
