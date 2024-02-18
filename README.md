@@ -6,27 +6,7 @@
 Me chamo Michel estudante de tecnologia, apaixonado por programação. 
 Desenvolvedor Front-End-Junior em constante evolução.
 Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso.
-# Projeto com  README
-Um projeto de teste com um arquivo README 🧨 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnbjBtZmdlMjNucDlyNTN5dWdiczc2Z3ZnZHV6azNvOXJvczVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
-
-## Tecnologias utilizadas
-- HTML     
-- CSS   
-- JS
-
-## Como utilizar
-
-1-clone para o projeto
-```
-git clone <url>
-```
-
-2-Acesse a pasta do projeto
-```
-cd repositorio-com-readme
-```
 
 
 
