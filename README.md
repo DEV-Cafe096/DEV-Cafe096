@@ -31,7 +31,7 @@ Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves pa
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-   <img align="right" alt="GIF" height="320px" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N2Y3Fucnpid2FjaXhvMTFkZDc4bW02d2Rzeml1bjUxeDB3eTgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+   <img align="right" alt="GIF" height="320px" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnbjBtZmdlMjNucDlyNTN5dWdiczc2Z3ZnZHV6azNvOXJvczVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
   
   
 </div>
