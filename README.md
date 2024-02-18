@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/CA´PA.png)
+![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png)
 
 
 
