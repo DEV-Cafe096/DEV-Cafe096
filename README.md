@@ -9,7 +9,7 @@ Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves pa
 # Projeto com  README
 Um projeto de teste com um arquivo README 🧨 
 
-<img src="./Animação.gif" alt="gif da tela inicial do projeto">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnbjBtZmdlMjNucDlyNTN5dWdiczc2Z3ZnZHV6azNvOXJvczVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ## Tecnologias utilizadas
 - HTML     
