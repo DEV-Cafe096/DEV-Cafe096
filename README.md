@@ -26,7 +26,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-<p><strong>Tecnologias em aprendizado</strong></p>
+## <p><strong>Tecnologias em aprendizado</strong></p>
 
            
           
@@ -37,7 +37,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-   <img align="right" alt="GIF" height="320px" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnbjBtZmdlMjNucDlyNTN5dWdiczc2Z3ZnZHV6azNvOXJvczVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
+   <img align="right" alt="GIF" height="320px" width="350px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnbjBtZmdlMjNucDlyNTN5dWdiczc2Z3ZnZHV6azNvOXJvczVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
   
   
 </div>
