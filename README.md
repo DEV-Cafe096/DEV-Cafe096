@@ -4,6 +4,7 @@
 
  ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Michel_Correa__2_-removebg-preview.png) 
  </div>
+ <video preload="auto" autoplay="" controls="" loop="" alt="Screen, Android, Cords, Binary" poster="https://artgrid.imgix.net/footage-graded-thumbnail/018cfd667c_1317679_0-second_w800px.jpeg" style="width: 100%; height: 100%;" src="blob:https://artlist.io/16635d37-1953-4c51-84b0-f4f535baa79a"></video>
 
 #### Me chamo Michel estudante de programação, apaixonado por tecnologias. 
 #### Desenvolvedor Front-End-Junior em constante evolução.
