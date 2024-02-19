@@ -2,7 +2,7 @@
 ## Bem-vindo(a) ao meu perfil ☕ 
 <div img align="center" 
 
- ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/White%20Black%20Texture%20Thank%20You%20Album%20Cover.gif) 
+ ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
  </div>
  
 
