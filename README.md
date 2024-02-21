@@ -45,7 +45,7 @@
    <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
    <br>
 
-   <img align="right" alt="png" height="400px" width="400px" src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUBdesign%20(2).png">
+   <img align="right" alt="" height="400px" width="400px" src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUBdesign%20(2).png">
   
   
 </div>
