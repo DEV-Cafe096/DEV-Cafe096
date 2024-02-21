@@ -31,7 +31,7 @@
 
 <br>
  
- <strong>Tecnologias em Aprendizado:</strong>
+ <strong>Tecnologias em Aprendizado 🌱:</strong>
 
          
           
