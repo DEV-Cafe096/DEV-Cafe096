@@ -1,6 +1,6 @@
 
 ## Bem-vindo(a) ao meu perfil ☕ 
-<div img align="center" 
+<div img align="center" max-width 100%
 
  ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Futuristic%20Technology%20Conference%20Presentation.png) 
  </div>
