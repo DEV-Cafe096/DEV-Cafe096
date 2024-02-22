@@ -1,6 +1,6 @@
 
 ## Bem-vindo(a) ao meu perfil ☕ 
-<div img align="center" max-width 600px
+<div img align="center" @media (max-width: 576px) {  }
 
  ![Capa Github]( https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
  </div>
