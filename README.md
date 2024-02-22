@@ -2,7 +2,7 @@
 ## Bem-vindo(a) ao meu perfil ☕ 
 <div img align="center" 
 
- ![Capa Github]("https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Futuristic%20Technology%20Conference%20Presentation.png") 
+ ![Capa Github](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Futuristic%20Technology%20Conference%20Presentation.png) 
  </div>
 
  https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif
