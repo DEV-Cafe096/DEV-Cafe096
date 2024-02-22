@@ -33,8 +33,8 @@
    <br>  
 </div>
 
- <div align="right"height="450px" width="450px"
- <img src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUBdesign%20(2).png">
+ <div 
+ <img align="right"height="450px" width="450px" src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUBdesign%20(2).png">
  </div>
   
 
