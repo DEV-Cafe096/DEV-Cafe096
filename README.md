@@ -11,19 +11,6 @@
 #### Desenvolvedor Front-End-Junior em constante evolução.
 #### Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso. 
 
-
-
-
-
-
-
-
- <div>
-   <a href="https://github.com/DEV-Cafe096">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEV-Cafe096
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Cafe096
-&layout=compact&langs_count=6&theme=tokyonight"/>
    
 </div>
     
