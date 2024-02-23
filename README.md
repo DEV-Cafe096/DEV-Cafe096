@@ -3,7 +3,7 @@
 
 
  ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
- </div>
+
 
 
 
