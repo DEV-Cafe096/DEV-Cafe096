@@ -33,7 +33,7 @@
   <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
   <br>  
 </div>
- <img align="right"height="350px" width="350px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Untitled%20design%20(2).gif">
+ <img align="right"height="320px" width="330px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Untitled%20design%20(2).gif">
  
   
 
@@ -51,4 +51,16 @@
  <a href = "mailto:devcafe096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/michel-correa-484a0511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+
+
+ <div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
