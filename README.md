@@ -33,7 +33,7 @@
   <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
   <br>  
 </div>
- <img align="right"height="350px" width="350px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUBdesign%20(2).png">
+ <img align="right"height="350px" width="350px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Untitled%20design%20(2).gif">
  
   
 
