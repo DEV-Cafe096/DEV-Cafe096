@@ -8,9 +8,13 @@
 
 
 
-#### Me chamo Michel estudante de programação, apaixonado por tecnologias. 
-#### Desenvolvedor Front-End-Junior em constante evolução.
-#### Meu objetivo é desenvolver apps e páginas web de facil manutenção e leves para todos os usuarios independentes dos dispositivos de acesso. 
+Estudante de Engenharia de Software e futuro desenvolvedor full-stack 🚀! Sou apaixonado por aprender novas tecnologias e construir projetos que impactem positivamente a vida das pessoas.
+
+### Habilidades 💻
+
+-  Linguagens: HTML, CSS, JavaScript, Python
+-  Frameworks: React, Node.js
+-  Ferramentas: Git, GitHub, VS Code
 
    
 </div>
