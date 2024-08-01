@@ -8,13 +8,8 @@
 
 
 
-Estudante de Engenharia de Software e futuro desenvolvedor full-stack 🚀! Sou apaixonado por aprender novas tecnologias e construir projetos que impactem positivamente a vida das pessoas.
-
-### Habilidades 💻
-
--  Linguagens: HTML, CSS, JavaScript, Python
--  Frameworks: React, Node.js
--  Ferramentas: Git, GitHub, VS Code
+### Estudante de Engenharia de Software e futuro desenvolvedor full-stack 🚀!
+### Sou apaixonado por aprender novas tecnologias e construir projetos que impactem positivamente a vida das pessoas.
 
    
 </div>
