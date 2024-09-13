@@ -2,7 +2,7 @@
 ## Bem-vindo(a) ao meu perfil, pegue um ☕  e vamos falar sobre Tecnologias. 
 
 
- ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
+ ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Futuristic%20Technology.gif) 
   
 
 
