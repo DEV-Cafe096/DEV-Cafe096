@@ -33,7 +33,7 @@
   <br>  
 </div>
 <br>
- <img align="right"height="320px" width="330px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/gif%20ok.gif">
+ <img align="right"height="320px" width="330px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/gif-ai.gif">
  
   
 
