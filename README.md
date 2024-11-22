@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao meu perfil, pegue um ☕  e vamos falar sobre Tecnologias. 
+## Welcome to my profile! Grab a ☕ and let's talk tech.
 
 
  ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Futuristic%20Technology.gif) 
@@ -17,7 +17,7 @@
 
 <br>
  
- <strong>Tecnologias em Aprendizado 🌱:</strong>
+ <strong>Technologies I'm Studying:🌱:</strong>
 
          
           
@@ -49,7 +49,7 @@
 <div> 
  <br>
  <br>
- <p><strong>Entre em contato comigo</strong></p>
+ <p><strong>Let's work together</strong></p>
 
 <a href="https://api.whatsapp.com/send/?phone=5551995351233" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
