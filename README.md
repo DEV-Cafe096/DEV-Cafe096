@@ -8,8 +8,7 @@
 
 
 
-### Estudante de Engenharia de Software e futuro desenvolvedor Full-Stack 🚀!
-### Sou apaixonado por aprender novas tecnologias e construir projetos que impactem positivamente a vida das pessoas.
+## Software Engineering student, aspiring Full-Stack developer 🚀! Passionate about building impactful projects.
 
    
 </div>
