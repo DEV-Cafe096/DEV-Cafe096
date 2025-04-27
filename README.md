@@ -36,7 +36,8 @@
   <br>  
 </div>
 <br>
- <img align="right"height="320px" width="330px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/gif-ai.gif">
+ 
+ <img align="right"height="320px" width="330px"src="https://github.com/DEV-Cafe096/CapaGitHub/blob/main/gif00.gif">
  
   
 
